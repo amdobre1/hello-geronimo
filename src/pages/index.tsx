@@ -9,7 +9,7 @@ const PartnerList: NextPage = () => {
 
     return (
         <main className="">
-           dsadasdasd
+           Geronimo all latest libs
         </main>
     );
 };
